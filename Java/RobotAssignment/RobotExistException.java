@@ -1,4 +1,4 @@
-package Exercise2;
+package RobotAssignment;
 
 /**
  * This program creates the Exception RobotExistException
