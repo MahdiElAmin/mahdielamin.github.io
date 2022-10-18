@@ -1,4 +1,4 @@
-package Exercise2;
+package RobotAssignment;
 
 import java.util.*;
 /**
